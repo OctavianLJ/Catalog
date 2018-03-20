@@ -1,0 +1,52 @@
+.box {
+	font-family: sans-serif;
+	width: 1500px;
+	background: white;
+	padding: 10px;
+	border: 1px solid black;
+	margin-left: 11%;
+}
+
+.box2 {
+	width: 1200px;
+	padding: 10px;
+	margin-left: 20%;
+}
+
+.table {
+	display: table;
+}
+
+.button {
+	display: table-cell;
+	background-color: #4CAF50;
+	border: solid;
+	border-radius: 35px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.main {
+	text-align: center;
+	font-weight: bold;
+	background: grey;
+	display: table-cell;
+	width: 150px;
+}
+
+.cell {
+	
+	display: table-cell;
+	width: 150px;
+}
+ .logout {
+ text-align: center;
+ border-style: solid;
+ border-width: 3px;
+ border-radius: 35px;
+ margin-left: 48%;
+ width: 50px;
+ }
